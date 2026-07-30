@@ -7,3 +7,5 @@ Currently expanding my backend expertise with Node.js and deepening my knowledge
 tetiana.taranushchenko@gmail.com
 <br>
 Telegram @tatiana_taranushchenko
+
+[![View CV](https://img.shields.io/badge/View_CV-496D78?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://tetiana-taranushchenko.github.io/CV/CV_Tetiana_Taranushchenko_3.pdf)
