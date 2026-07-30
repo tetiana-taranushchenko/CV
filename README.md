@@ -5,4 +5,5 @@ Experienced in developing enterprise SaaS products, analytics dashboards, AI-pow
 Currently expanding my backend expertise with Node.js and deepening my knowledge of AI technologies, including advanced AI-assisted development and modern LLM-based solutions.
 
 tetiana.taranushchenko@gmail.com
+<br>
 Telegram @tatiana_taranushchenko
