@@ -10,3 +10,5 @@ Telegram @tatiana_taranushchenko
 
 [![View CV](https://img.shields.io/badge/View_CV-496D78?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/tetiana-taranushchenko/CV/main/CV__Tetiana_Taranushchenko.pdf)
 
+[![View CV](https://img.shields.io/badge/View_CV-496D78?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://tetiana-taranushchenko.github.io/CV/CV__Tetiana_Taranushchenko.pdf)
+
